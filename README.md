@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++ and Java**
 
 - 📫 How to reach me **hasnainrashi@gmail.com**
 
