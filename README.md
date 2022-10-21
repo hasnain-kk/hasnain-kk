@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhasnain-hsr&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain-kk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhasnain-hsr" alt="mhasnain-hsr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhasnain-hsr" alt="hasnain-kk" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hasnain0601" target="blank"><img src="https://img.shields.io/twitter/follow/hasnain0601?logo=twitter&style=for-the-badge" alt="hasnain0601" /></a> </p>
 
